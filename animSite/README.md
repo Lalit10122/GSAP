@@ -32,7 +32,7 @@ Built with modern web technologies and smooth **GSAP animations** for an engagin
 
 ## 📸 Preview
 
-![Portfolio Preview](https://raw.githubusercontent.com/user/repo/main/preview.png)  
+![Portfolio Preview](https://i.postimg.cc/sD6LbHf1/Screenshot-2025-10-17-141730.png)  
 *(Replace with your own preview image link)*
 
 ---
