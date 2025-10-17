@@ -33,7 +33,7 @@ Built with modern web technologies and smooth **GSAP animations** for an engagin
 ## 📸 Preview
 
 ![Portfolio Preview](https://i.postimg.cc/sD6LbHf1/Screenshot-2025-10-17-141730.png)  
-*(Replace with your own preview image link)*
+
 
 ---
 
@@ -41,4 +41,4 @@ Built with modern web technologies and smooth **GSAP animations** for an engagin
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/Lalit10122/GSAP.git
